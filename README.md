@@ -7,4 +7,4 @@ A language detection neural network that will; parse text into n-grams, hash and
 
 ## 3. Feeding Neural Network with 
 
-## Detecting a Language with the Neural Network
+## 4. Detecting a Language with the Neural Network
